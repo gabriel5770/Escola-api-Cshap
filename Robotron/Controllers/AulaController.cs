@@ -17,6 +17,8 @@ namespace Robotron.Controllers
             List<Aluno> alunos = AlunoRepos.lisAluno();
             return Ok(alunos);
         }
+
+
         [Route("professores")]
         [HttpGet]
         public ActionResult ListProfessores()
