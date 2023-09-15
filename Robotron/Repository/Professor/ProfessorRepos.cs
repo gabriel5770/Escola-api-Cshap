@@ -26,7 +26,7 @@ namespace Robotron.Repository.Computador
 
             professores.Add(new Professor
             {
-                Id = 1,
+                Id = 3,
                 Nome = "Sérgio Santos",
                 idade = 60,
                 Curso = "Física"

@@ -30,14 +30,14 @@ namespace Robotron.Repository.Carro
 
             alunos.Add(new Aluno
             {
-                Id = 3,
+                Id = 4,
                 Nome = "Luva de pedreiro",
                 Idade = 20
             });
 
             alunos.Add(new Aluno
             {
-                Id = 3,
+                Id = 5,
                 Nome = "Alan Jesus",
                 Idade = 36
             });
